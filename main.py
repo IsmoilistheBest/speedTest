@@ -29,7 +29,7 @@ import platform
 import threading
 import xml.parsers.expat
 
-print "Powered by RC4347"
+print("Powered by RC4347")
 
 try:
     import gzip
